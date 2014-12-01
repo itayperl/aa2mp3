@@ -15,7 +15,7 @@ Dependencies
 Setup
 -----
 - Copy the AAXSDKWin.dll file from the AudibleManager directory (under ~/.wine/drive\_c)
-  into the this directory
+  into this directory
 - Run make
 
 Usage
