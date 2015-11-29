@@ -10,7 +10,8 @@ Dependencies
 - Wine
 - mingw32 cross compiler
 - libav (for avconv)
-- AudibleManager (running under wine), configured with your Audible account
+- AudibleManager (running under wine). You must log in once through AudibleManager, either by
+  'Activate' or via the 'Podcast' section.
 
 Setup
 -----
